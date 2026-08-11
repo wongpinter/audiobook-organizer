@@ -1,0 +1,4 @@
+audiobook_fetcher.egg-info/
+.venv/
+__pycache__/
+.pytest_cache/
